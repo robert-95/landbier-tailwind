@@ -563,27 +563,27 @@ video {
   }
 }
 
-@media (min-width: 768px){
+@media (min-width: 968px){
   .container{
-    max-width: 768px;
+    max-width: 968px;
   }
 }
 
-@media (min-width: 1024px){
+@media (min-width: 1224px){
   .container{
-    max-width: 1024px;
+    max-width: 1224px;
   }
 }
 
-@media (min-width: 1280px){
+@media (min-width: 1480px){
   .container{
-    max-width: 1280px;
+    max-width: 1480px;
   }
 }
 
-@media (min-width: 1536px){
+@media (min-width: 1736px){
   .container{
-    max-width: 1536px;
+    max-width: 1736px;
   }
 }
 
@@ -14547,19 +14547,19 @@ video {
 }
 
 .max-w-screen-md{
-  max-width: 768px;
+  max-width: 968px;
 }
 
 .max-w-screen-lg{
-  max-width: 1024px;
+  max-width: 1224px;
 }
 
 .max-w-screen-xl{
-  max-width: 1280px;
+  max-width: 1480px;
 }
 
 .max-w-screen-2xl{
-  max-width: 1536px;
+  max-width: 1736px;
 }
 
 .min-h-0{
@@ -32925,27 +32925,27 @@ video {
     }
   }
 
-  @media (min-width: 768px){
+  @media (min-width: 968px){
     .sm\:container{
-      max-width: 768px;
+      max-width: 968px;
     }
   }
 
-  @media (min-width: 1024px){
+  @media (min-width: 1224px){
     .sm\:container{
-      max-width: 1024px;
+      max-width: 1224px;
     }
   }
 
-  @media (min-width: 1280px){
+  @media (min-width: 1480px){
     .sm\:container{
-      max-width: 1280px;
+      max-width: 1480px;
     }
   }
 
-  @media (min-width: 1536px){
+  @media (min-width: 1736px){
     .sm\:container{
-      max-width: 1536px;
+      max-width: 1736px;
     }
   }
 
@@ -46909,19 +46909,19 @@ video {
   }
 
   .sm\:max-w-screen-md{
-    max-width: 768px;
+    max-width: 968px;
   }
 
   .sm\:max-w-screen-lg{
-    max-width: 1024px;
+    max-width: 1224px;
   }
 
   .sm\:max-w-screen-xl{
-    max-width: 1280px;
+    max-width: 1480px;
   }
 
   .sm\:max-w-screen-2xl{
-    max-width: 1536px;
+    max-width: 1736px;
   }
 
   .sm\:min-h-0{
@@ -65106,7 +65106,7 @@ video {
   }
 }
 
-@media (min-width: 768px){
+@media (min-width: 968px){
   .md\:container{
     width: 100%;
   }
@@ -65117,27 +65117,27 @@ video {
     }
   }
 
-  @media (min-width: 768px){
+  @media (min-width: 968px){
     .md\:container{
-      max-width: 768px;
+      max-width: 968px;
     }
   }
 
-  @media (min-width: 1024px){
+  @media (min-width: 1224px){
     .md\:container{
-      max-width: 1024px;
+      max-width: 1224px;
     }
   }
 
-  @media (min-width: 1280px){
+  @media (min-width: 1480px){
     .md\:container{
-      max-width: 1280px;
+      max-width: 1480px;
     }
   }
 
-  @media (min-width: 1536px){
+  @media (min-width: 1736px){
     .md\:container{
-      max-width: 1536px;
+      max-width: 1736px;
     }
   }
 
@@ -79101,19 +79101,19 @@ video {
   }
 
   .md\:max-w-screen-md{
-    max-width: 768px;
+    max-width: 968px;
   }
 
   .md\:max-w-screen-lg{
-    max-width: 1024px;
+    max-width: 1224px;
   }
 
   .md\:max-w-screen-xl{
-    max-width: 1280px;
+    max-width: 1480px;
   }
 
   .md\:max-w-screen-2xl{
-    max-width: 1536px;
+    max-width: 1736px;
   }
 
   .md\:min-h-0{
@@ -97298,7 +97298,7 @@ video {
   }
 }
 
-@media (min-width: 1024px){
+@media (min-width: 1224px){
   .lg\:container{
     width: 100%;
   }
@@ -97309,27 +97309,27 @@ video {
     }
   }
 
-  @media (min-width: 768px){
+  @media (min-width: 968px){
     .lg\:container{
-      max-width: 768px;
+      max-width: 968px;
     }
   }
 
-  @media (min-width: 1024px){
+  @media (min-width: 1224px){
     .lg\:container{
-      max-width: 1024px;
+      max-width: 1224px;
     }
   }
 
-  @media (min-width: 1280px){
+  @media (min-width: 1480px){
     .lg\:container{
-      max-width: 1280px;
+      max-width: 1480px;
     }
   }
 
-  @media (min-width: 1536px){
+  @media (min-width: 1736px){
     .lg\:container{
-      max-width: 1536px;
+      max-width: 1736px;
     }
   }
 
@@ -111293,19 +111293,19 @@ video {
   }
 
   .lg\:max-w-screen-md{
-    max-width: 768px;
+    max-width: 968px;
   }
 
   .lg\:max-w-screen-lg{
-    max-width: 1024px;
+    max-width: 1224px;
   }
 
   .lg\:max-w-screen-xl{
-    max-width: 1280px;
+    max-width: 1480px;
   }
 
   .lg\:max-w-screen-2xl{
-    max-width: 1536px;
+    max-width: 1736px;
   }
 
   .lg\:min-h-0{
@@ -129490,7 +129490,7 @@ video {
   }
 }
 
-@media (min-width: 1280px){
+@media (min-width: 1480px){
   .xl\:container{
     width: 100%;
   }
@@ -129501,27 +129501,27 @@ video {
     }
   }
 
-  @media (min-width: 768px){
+  @media (min-width: 968px){
     .xl\:container{
-      max-width: 768px;
+      max-width: 968px;
     }
   }
 
-  @media (min-width: 1024px){
+  @media (min-width: 1224px){
     .xl\:container{
-      max-width: 1024px;
+      max-width: 1224px;
     }
   }
 
-  @media (min-width: 1280px){
+  @media (min-width: 1480px){
     .xl\:container{
-      max-width: 1280px;
+      max-width: 1480px;
     }
   }
 
-  @media (min-width: 1536px){
+  @media (min-width: 1736px){
     .xl\:container{
-      max-width: 1536px;
+      max-width: 1736px;
     }
   }
 
@@ -143485,19 +143485,19 @@ video {
   }
 
   .xl\:max-w-screen-md{
-    max-width: 768px;
+    max-width: 968px;
   }
 
   .xl\:max-w-screen-lg{
-    max-width: 1024px;
+    max-width: 1224px;
   }
 
   .xl\:max-w-screen-xl{
-    max-width: 1280px;
+    max-width: 1480px;
   }
 
   .xl\:max-w-screen-2xl{
-    max-width: 1536px;
+    max-width: 1736px;
   }
 
   .xl\:min-h-0{
@@ -161682,7 +161682,7 @@ video {
   }
 }
 
-@media (min-width: 1536px){
+@media (min-width: 1736px){
   .\32xl\:container{
     width: 100%;
   }
@@ -161693,27 +161693,27 @@ video {
     }
   }
 
-  @media (min-width: 768px){
+  @media (min-width: 968px){
     .\32xl\:container{
-      max-width: 768px;
+      max-width: 968px;
     }
   }
 
-  @media (min-width: 1024px){
+  @media (min-width: 1224px){
     .\32xl\:container{
-      max-width: 1024px;
+      max-width: 1224px;
     }
   }
 
-  @media (min-width: 1280px){
+  @media (min-width: 1480px){
     .\32xl\:container{
-      max-width: 1280px;
+      max-width: 1480px;
     }
   }
 
-  @media (min-width: 1536px){
+  @media (min-width: 1736px){
     .\32xl\:container{
-      max-width: 1536px;
+      max-width: 1736px;
     }
   }
 
@@ -175677,19 +175677,19 @@ video {
   }
 
   .\32xl\:max-w-screen-md{
-    max-width: 768px;
+    max-width: 968px;
   }
 
   .\32xl\:max-w-screen-lg{
-    max-width: 1024px;
+    max-width: 1224px;
   }
 
   .\32xl\:max-w-screen-xl{
-    max-width: 1280px;
+    max-width: 1480px;
   }
 
   .\32xl\:max-w-screen-2xl{
-    max-width: 1536px;
+    max-width: 1736px;
   }
 
   .\32xl\:min-h-0{
