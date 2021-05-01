@@ -563,21 +563,21 @@ video {
   }
 }
 
-@media (min-width: 968px){
+@media (min-width: 1024px){
   .container{
-    max-width: 968px;
+    max-width: 1024px;
   }
 }
 
-@media (min-width: 1224px){
+@media (min-width: 1280px){
   .container{
-    max-width: 1224px;
+    max-width: 1280px;
   }
 }
 
-@media (min-width: 1480px){
+@media (min-width: 1536px){
   .container{
-    max-width: 1480px;
+    max-width: 1536px;
   }
 }
 
@@ -14547,15 +14547,15 @@ video {
 }
 
 .max-w-screen-md{
-  max-width: 968px;
+  max-width: 1024px;
 }
 
 .max-w-screen-lg{
-  max-width: 1224px;
+  max-width: 1280px;
 }
 
 .max-w-screen-xl{
-  max-width: 1480px;
+  max-width: 1536px;
 }
 
 .max-w-screen-2xl{
@@ -32925,21 +32925,21 @@ video {
     }
   }
 
-  @media (min-width: 968px){
+  @media (min-width: 1024px){
     .sm\:container{
-      max-width: 968px;
+      max-width: 1024px;
     }
   }
 
-  @media (min-width: 1224px){
+  @media (min-width: 1280px){
     .sm\:container{
-      max-width: 1224px;
+      max-width: 1280px;
     }
   }
 
-  @media (min-width: 1480px){
+  @media (min-width: 1536px){
     .sm\:container{
-      max-width: 1480px;
+      max-width: 1536px;
     }
   }
 
@@ -46909,15 +46909,15 @@ video {
   }
 
   .sm\:max-w-screen-md{
-    max-width: 968px;
+    max-width: 1024px;
   }
 
   .sm\:max-w-screen-lg{
-    max-width: 1224px;
+    max-width: 1280px;
   }
 
   .sm\:max-w-screen-xl{
-    max-width: 1480px;
+    max-width: 1536px;
   }
 
   .sm\:max-w-screen-2xl{
@@ -65106,7 +65106,7 @@ video {
   }
 }
 
-@media (min-width: 968px){
+@media (min-width: 1024px){
   .md\:container{
     width: 100%;
   }
@@ -65117,21 +65117,21 @@ video {
     }
   }
 
-  @media (min-width: 968px){
+  @media (min-width: 1024px){
     .md\:container{
-      max-width: 968px;
+      max-width: 1024px;
     }
   }
 
-  @media (min-width: 1224px){
+  @media (min-width: 1280px){
     .md\:container{
-      max-width: 1224px;
+      max-width: 1280px;
     }
   }
 
-  @media (min-width: 1480px){
+  @media (min-width: 1536px){
     .md\:container{
-      max-width: 1480px;
+      max-width: 1536px;
     }
   }
 
@@ -79101,15 +79101,15 @@ video {
   }
 
   .md\:max-w-screen-md{
-    max-width: 968px;
+    max-width: 1024px;
   }
 
   .md\:max-w-screen-lg{
-    max-width: 1224px;
+    max-width: 1280px;
   }
 
   .md\:max-w-screen-xl{
-    max-width: 1480px;
+    max-width: 1536px;
   }
 
   .md\:max-w-screen-2xl{
@@ -97298,7 +97298,7 @@ video {
   }
 }
 
-@media (min-width: 1224px){
+@media (min-width: 1280px){
   .lg\:container{
     width: 100%;
   }
@@ -97309,21 +97309,21 @@ video {
     }
   }
 
-  @media (min-width: 968px){
+  @media (min-width: 1024px){
     .lg\:container{
-      max-width: 968px;
+      max-width: 1024px;
     }
   }
 
-  @media (min-width: 1224px){
+  @media (min-width: 1280px){
     .lg\:container{
-      max-width: 1224px;
+      max-width: 1280px;
     }
   }
 
-  @media (min-width: 1480px){
+  @media (min-width: 1536px){
     .lg\:container{
-      max-width: 1480px;
+      max-width: 1536px;
     }
   }
 
@@ -111293,15 +111293,15 @@ video {
   }
 
   .lg\:max-w-screen-md{
-    max-width: 968px;
+    max-width: 1024px;
   }
 
   .lg\:max-w-screen-lg{
-    max-width: 1224px;
+    max-width: 1280px;
   }
 
   .lg\:max-w-screen-xl{
-    max-width: 1480px;
+    max-width: 1536px;
   }
 
   .lg\:max-w-screen-2xl{
@@ -129490,7 +129490,7 @@ video {
   }
 }
 
-@media (min-width: 1480px){
+@media (min-width: 1536px){
   .xl\:container{
     width: 100%;
   }
@@ -129501,21 +129501,21 @@ video {
     }
   }
 
-  @media (min-width: 968px){
+  @media (min-width: 1024px){
     .xl\:container{
-      max-width: 968px;
+      max-width: 1024px;
     }
   }
 
-  @media (min-width: 1224px){
+  @media (min-width: 1280px){
     .xl\:container{
-      max-width: 1224px;
+      max-width: 1280px;
     }
   }
 
-  @media (min-width: 1480px){
+  @media (min-width: 1536px){
     .xl\:container{
-      max-width: 1480px;
+      max-width: 1536px;
     }
   }
 
@@ -143485,15 +143485,15 @@ video {
   }
 
   .xl\:max-w-screen-md{
-    max-width: 968px;
+    max-width: 1024px;
   }
 
   .xl\:max-w-screen-lg{
-    max-width: 1224px;
+    max-width: 1280px;
   }
 
   .xl\:max-w-screen-xl{
-    max-width: 1480px;
+    max-width: 1536px;
   }
 
   .xl\:max-w-screen-2xl{
@@ -161693,21 +161693,21 @@ video {
     }
   }
 
-  @media (min-width: 968px){
+  @media (min-width: 1024px){
     .\32xl\:container{
-      max-width: 968px;
+      max-width: 1024px;
     }
   }
 
-  @media (min-width: 1224px){
+  @media (min-width: 1280px){
     .\32xl\:container{
-      max-width: 1224px;
+      max-width: 1280px;
     }
   }
 
-  @media (min-width: 1480px){
+  @media (min-width: 1536px){
     .\32xl\:container{
-      max-width: 1480px;
+      max-width: 1536px;
     }
   }
 
@@ -175677,15 +175677,15 @@ video {
   }
 
   .\32xl\:max-w-screen-md{
-    max-width: 968px;
+    max-width: 1024px;
   }
 
   .\32xl\:max-w-screen-lg{
-    max-width: 1224px;
+    max-width: 1280px;
   }
 
   .\32xl\:max-w-screen-xl{
-    max-width: 1480px;
+    max-width: 1536px;
   }
 
   .\32xl\:max-w-screen-2xl{
