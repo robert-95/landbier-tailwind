@@ -1,12 +1,6 @@
 module.exports = {
   purge: [],
   theme: {
-    screens: {
-      sm: '640px',
-      lg: '1024px',
-      xl: '1280px',
-      '2xl': '1440px',
-    },
     extend: {
       boxShadow: {
         rainbow: '0 0 0 10px #ff0000,0 0 0 20px #ff7700,0 0 0 30px #FFDD00,0 0 0 40px #00FF00,0 0 0 50px #0000FF,0 0 0 60px #C77DF3,0 0 0 70px #8A2BE2',
