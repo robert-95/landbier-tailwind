@@ -10,6 +10,12 @@ module.exports = {
         sans: ['Dosis', 'sans-serif'],
       },
       colors: {
+        myred: {
+        base: "#E53835",
+        light: "#f5706e",
+        dark: "#990200"
+          
+      },
         blue: {
           '100': '#72c1df',
           '200': '#5bb7d9',
