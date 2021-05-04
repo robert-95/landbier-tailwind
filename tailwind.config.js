@@ -65,6 +65,10 @@ module.exports = {
       }
     },
   },
-  variants: {},
+  variants: {
+    extend:{
+      textColor: ['active'],
+    }
+  },
   plugins: [],
 }
